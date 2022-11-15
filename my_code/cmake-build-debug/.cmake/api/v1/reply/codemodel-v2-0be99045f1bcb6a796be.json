@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "my_code",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "my_code::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-my_code-Debug-d04de507885939ccbb46.json",
 					"name" : "my_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program_break_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program_break_1-Debug-6d6df15778ab98cf8209.json",
+					"name" : "program_break_1",
 					"projectIndex" : 0
 				}
 			]

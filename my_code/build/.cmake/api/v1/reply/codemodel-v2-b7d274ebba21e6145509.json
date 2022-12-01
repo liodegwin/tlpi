@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "my_code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello-Debug-23d18d1d719f8b791399.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_code-Debug-a0eb840d197b9440a3eb.json",
+					"name" : "my_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program_break_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program_break_1-Debug-2c3590786d6b841bff12.json",
+					"name" : "program_break_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program_break_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program_break_2-Debug-131e7481337d84b5e300.json",
+					"name" : "program_break_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build",
+		"source" : "/media/psf/Home/MyTec/gitrepos/tlpi/my_code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

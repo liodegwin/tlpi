@@ -1,13 +1,7 @@
 # ninja log v5
-0	54	1668101214880322092	CMakeFiles/my_code.dir/process/fork_1.c.o	6c5eec22bdb83dfa
 54	88	1668101214914955369	my_code	1eddead7648ef015
-0	88	1668524315416786852	CMakeFiles/program_break_1.dir/malloc/program_break_1.c.o	f4f37b6f257929e1
-88	207	1668524315536466327	program_break_1	2d0d246f31ecbe25
-1	33	1668524463747594505	CMakeFiles/program_break_1.dir/malloc/program_break_1.c.o	f4f37b6f257929e1
-34	70	1668524463785222943	program_break_1	2d0d246f31ecbe25
-0	33	1668524569153621281	CMakeFiles/program_break_1.dir/malloc/program_break_1.c.o	f4f37b6f257929e1
-34	71	1668524569191803584	program_break_1	2d0d246f31ecbe25
-0	32	1668524604727451064	CMakeFiles/program_break_1.dir/malloc/program_break_1.c.o	f4f37b6f257929e1
-32	66	1668524604762122504	program_break_1	2d0d246f31ecbe25
+0	54	1668101214880322092	CMakeFiles/my_code.dir/process/fork_1.c.o	6c5eec22bdb83dfa
+0	154	1668842432466432321	CMakeFiles/hello.dir/malloc/program_break_2.c.o	b4378461efc4dd
 0	52	1668526454016143830	CMakeFiles/program_break_1.dir/malloc/program_break_1.c.o	f4f37b6f257929e1
 54	106	1668526454071791851	program_break_1	2d0d246f31ecbe25
+155	272	1668842432584548021	hello	e8ecf8b7a3497587

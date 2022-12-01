@@ -1,0 +1,1 @@
+/usr/bin/aarch64-redhat-linux-gcc -g CMakeFiles/my_code.dir/process/fork_1.c.o -o my_code 

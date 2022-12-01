@@ -1,0 +1,6 @@
+/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build/CMakeFiles/rebuild_cache.dir
+/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build/CMakeFiles/edit_cache.dir
+/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build/CMakeFiles/hello.dir
+/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build/CMakeFiles/program_break_2.dir
+/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build/CMakeFiles/program_break_1.dir
+/media/psf/Home/MyTec/gitrepos/tlpi/my_code/build/CMakeFiles/my_code.dir

@@ -1,7 +1,0 @@
-# ninja log v5
-54	88	1668101214914955369	my_code	1eddead7648ef015
-0	54	1668101214880322092	CMakeFiles/my_code.dir/process/fork_1.c.o	6c5eec22bdb83dfa
-0	154	1668842432466432321	CMakeFiles/hello.dir/malloc/program_break_2.c.o	b4378461efc4dd
-0	52	1668526454016143830	CMakeFiles/program_break_1.dir/malloc/program_break_1.c.o	f4f37b6f257929e1
-54	106	1668526454071791851	program_break_1	2d0d246f31ecbe25
-155	272	1668842432584548021	hello	e8ecf8b7a3497587

@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "tlpi_hdr.h": "c",
-        "errno.h": "c",
-        "errno-base.h": "c",
-        "features.h": "c"
-    }
-}

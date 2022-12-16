@@ -16,7 +16,7 @@ int main(void)
     sa.sa_handler = sigalrmHandler;
     if (sigaction(SIGALRM, &sa, NULL) == -1)
     {
-        printf("err in func %s line %s, errno is %d\n",__FUNCTION__ ,__LINE__,errno);
+        printf("err in file %s func %s line %s, errno is %d\n",__FILE__,__FUNCTION__ ,__LINE__,errno);
         return 0;
     };
     //set itimer
@@ -24,7 +24,7 @@ int main(void)
     itv.it_interval.tv_sec = 1;
     itv.it_value.tv_sec = 5;
     if(setitimer(ITIMER_REAL,&itv,NULL) == -1){
-        printf("err in func %s line %s, errno is %d\n",__FUNCTION__ ,__LINE__,errno);
+        printf("err in file %s func %s line %s, errno is %d\n",__FILE__,__FUNCTION__ ,__LINE__,errno);
         return 0;
     };
     //
